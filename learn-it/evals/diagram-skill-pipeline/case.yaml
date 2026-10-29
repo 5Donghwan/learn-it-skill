@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: diagram-skill-pipeline
+expected_outcome: |
+  The skill reads its own source folder and draws an accurate diagram (SVG) of how it works: the format ladder and the video pipeline with the real script names, labeled in Korean STE style, checked as a rendered image.

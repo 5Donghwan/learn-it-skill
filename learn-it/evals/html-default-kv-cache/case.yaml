@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: html-default-kv-cache
+expected_outcome: |
+  No format is named, so the skill makes an interactive HTML page in Korean (STE style) about the KV cache, with a playground widget whose numbers come from real formulas, a step-by-step mechanism, and check questions with hidden answers. core.md exists next to it.

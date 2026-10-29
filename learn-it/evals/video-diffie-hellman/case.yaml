@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: video-diffie-hellman
+expected_outcome: |
+  A narrated 2-3 minute Manim video in Korean about Diffie-Hellman, with audio from tts.py, subtitles embedded, a storyboard, and a frame contact sheet that was checked for layout problems before the final render.

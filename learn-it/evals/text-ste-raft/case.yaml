@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: text-ste-raft
+expected_outcome: |
+  A short chat answer in Korean that follows the STE-ko rules: one-sentence answer, numbered steps with condition-first sentences, a worked example, and check questions that the user is asked to try before seeing answers.
